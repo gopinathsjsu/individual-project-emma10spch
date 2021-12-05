@@ -10,3 +10,20 @@
 9. Like in step 7, either press [Enter] or type in a different file name, the application or load the credit card db.
 10. Another prompt will show up asking for input data. Same as the previous steps, either press [Enter] to load the default file or specify another one.
 11. After pressing [Enter] in step 10, the application will start to run and exit automatically. If there is no error detected in the input, an output file named “Output.csv” will be created under the root directory, which comes with the total amount paid. If a new credit card is detected, the file “Cards - Sheet1.csv” will be updated. If some errors occur, a file named “Errors.txt” will be created, which will provide which item exceeds the quantity.
+<img width="1433" alt="IntelliJ-1" src="https://user-images.githubusercontent.com/26152890/144735585-b2b7d3f5-d5d2-4aed-821a-c42e975b5a41.png">
+
+# Output screenshots
+1. Run the application based on "Input1 - Sheet1.csv":
+<img width="1433" alt="IntelliJ-1" src="https://user-images.githubusercontent.com/26152890/144735627-c53f649e-aa86-4e09-ac27-a37a5a861ba4.png">
+<img width="563" alt="test1" src="https://user-images.githubusercontent.com/26152890/144735659-c0d38e82-46f2-4fe0-803c-6bd8cad23165.png">
+<img width="810" alt="Output1" src="https://user-images.githubusercontent.com/26152890/144735686-b4b84892-9062-4242-a5ed-f5228c127bfc.png">
+
+2. Run the application based on "Input2 - Sheet1.csv":
+<img width="957" alt="IntelliJ-2" src="https://user-images.githubusercontent.com/26152890/144735725-474f2d9c-a0ef-4602-ae96-bf90559d1c58.png">
+<img width="640" alt="Output2" src="https://user-images.githubusercontent.com/26152890/144735738-7a965150-07ce-483c-addd-b68147caa428.png">
+
+3. Restore "Cards - Sheet1.csv" to the original two entries. Run the application based on "Input3 - Sheet1.csv":
+![<img width="647" alt="test3" src="https://user-images.githubusercontent.com/26152890/144735808-e90dab60-e134-4289-8b68-da5132f639ff.png">
+Uploa<img width="703" alt="Output3" src="https://user-images.githubusercontent.com/26152890/144735819-42febac1-b7fc-4226-93dd-97fbd82a83d9.png">
+ding IntelliJ-3.png…]()
+

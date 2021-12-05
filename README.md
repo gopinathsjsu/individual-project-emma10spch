@@ -1,3 +1,10 @@
+# Design Pattern
+Singelton
+- Only one checkout application is supposed to be running. Otherwise, the different checkout application will try to access the same data, which may cause unpredicted results.
+
+Composite
+- Different category item classes such as essential, luxury and misc inherit from the parent Item class. When do the calculation at checkout, we don't really care about which category this item belongs to. Only one Item class is involved during the calculation.
+
 # Class Diagram
 <img width="1055" alt="classdiagram" src="https://user-images.githubusercontent.com/26152890/144736666-d3de2eaf-387a-4692-b8e9-b3ab6b277744.png">
 

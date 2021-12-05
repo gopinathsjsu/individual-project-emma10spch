@@ -24,9 +24,9 @@
 <img width="640" alt="Output2" src="https://user-images.githubusercontent.com/26152890/144735738-7a965150-07ce-483c-addd-b68147caa428.png">
 
 3. Restore "Cards - Sheet1.csv" to the original two entries. Run the application based on "Input3 - Sheet1.csv":
-![<img width="647" alt="test3" src="https://user-images.githubusercontent.com/26152890/144735808-e90dab60-e134-4289-8b68-da5132f639ff.png">
-Uploa<img width="703" alt="Output3" src="https://user-images.githubusercontent.com/26152890/144735819-42febac1-b7fc-4226-93dd-97fbd82a83d9.png">
-ding IntelliJ-3.png…]()
+<img width="888" alt="IntelliJ-3" src="https://user-images.githubusercontent.com/26152890/144736031-3a99f2d0-f7eb-4768-ab3b-226ae9373882.png">
+<img width="647" alt="test3" src="https://user-images.githubusercontent.com/26152890/144736034-17290c87-685c-481c-aa72-ff667c4f7173.png">
+<img width="703" alt="Output3" src="https://user-images.githubusercontent.com/26152890/144736039-7123ad91-e760-4fe2-94ac-536584c8ca14.png">
 
 # Intermediate results
 <img width="995" alt="InterRes" src="https://user-images.githubusercontent.com/26152890/144735984-df392f0c-6da4-41df-87ae-b145e5241f44.png">

@@ -1,3 +1,6 @@
+# Class Diagram
+<img width="1055" alt="classdiagram" src="https://user-images.githubusercontent.com/26152890/144736666-d3de2eaf-387a-4692-b8e9-b3ab6b277744.png">
+
 # Instructions
 1. Clone the repo
 2. Open IntelliJ and from top menu click “File” -> “Open”. 

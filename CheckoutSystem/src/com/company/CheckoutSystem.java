@@ -13,6 +13,13 @@ public class CheckoutSystem {
     private HashSet<String> creditCardSet = new HashSet<String>();
     private String COMMA_DELIMITER = ",";
 
+    // Singleton design patter
+    private static CheckoutSystem instance = new CheckoutSystem();
+    private CheckoutSystem(){}
+    public static CheckoutSystem getInstance(){
+        return instance;
+    }
+
     public void loadDB() {
         loadDataSet();
         loadConfig();

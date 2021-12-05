@@ -14,7 +14,8 @@
 
 # Output screenshots
 1. Run the application based on "Input1 - Sheet1.csv":
-<img width="1433" alt="IntelliJ-1" src="https://user-images.githubusercontent.com/26152890/144735627-c53f649e-aa86-4e09-ac27-a37a5a861ba4.png">
+<img width="886" alt="IntelliJ-11" src="https://user-images.githubusercontent.com/26152890/144735866-80dd3317-378c-425d-978a-3137bacd6e4f.png">
+
 <img width="563" alt="test1" src="https://user-images.githubusercontent.com/26152890/144735659-c0d38e82-46f2-4fe0-803c-6bd8cad23165.png">
 <img width="810" alt="Output1" src="https://user-images.githubusercontent.com/26152890/144735686-b4b84892-9062-4242-a5ed-f5228c127bfc.png">
 
@@ -26,4 +27,7 @@
 ![<img width="647" alt="test3" src="https://user-images.githubusercontent.com/26152890/144735808-e90dab60-e134-4289-8b68-da5132f639ff.png">
 Uploa<img width="703" alt="Output3" src="https://user-images.githubusercontent.com/26152890/144735819-42febac1-b7fc-4226-93dd-97fbd82a83d9.png">
 ding IntelliJ-3.png…]()
+
+# Intermediate results
+<img width="995" alt="InterRes" src="https://user-images.githubusercontent.com/26152890/144735984-df392f0c-6da4-41df-87ae-b145e5241f44.png">
 
